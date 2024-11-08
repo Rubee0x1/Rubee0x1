@@ -1,5 +1,4 @@
-
-                                                            ![120239](https://github.com/user-attachments/assets/6530e538-5c8c-4c2b-a530-311359252551)
+![120239](https://github.com/user-attachments/assets/6530e538-5c8c-4c2b-a530-311359252551)
 
 <h1 align="center">Hi 👋, I'm rugbee</h1>
 <h3 align="center">A passionate bug bounty hunter -security reseacher</h3>
