@@ -2,7 +2,7 @@
 ![352051914-e26d1d6a-30ee-488e-90ca-11b3aa180148](https://github.com/user-attachments/assets/78a1a822-17ea-41c0-b9f7-f3e89385a0c0)
 
 <h1 align="center">Hi 👋, I'm rugbee</h1(https://github.comuser-attachments/assets/3d07e02d-5416-4573-ae9d-75d2baf93efd)>
-<h3 align="center">A passionate bug bounty hunter -security Researcher </h3>
+<h3 align="center">A passionate bug bounty hunter - Security Researcher </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rugbee0x1&label=Profile%20views&color=0e75b6&style=flat" alt="rugbee0x1" /> </p>
 
