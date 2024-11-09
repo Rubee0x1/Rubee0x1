@@ -1,6 +1,8 @@
-![120239](https://github.com/user-attachments/assets/6530e538-5c8c-4c2b-a530-311359252551)
 
-<h1 align="center">Hi 👋, I'm rugbee</h1>
+![Uploading 352051914-e26d1d6a-30ee-488e-90ca-11b3aa180148.gif…]()
+
+<h1 align="center">Hi 👋, I'm rugbee</h1(https://github.com/user-attachments/assets/3d07e02d-5416-4573-ae9d-75d2baf93efd)
+>
 <h3 align="center">A passionate bug bounty hunter -security reseacher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rugbee0x1&label=Profile%20views&color=0e75b6&style=flat" alt="rugbee0x1" /> </p>
