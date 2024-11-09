@@ -1,5 +1,5 @@
 
-![Uploading 352051914-e26d1d6a-30ee-488e-90ca-11b3aa180148.gif…]()
+![Uploading 352051914-e26d1d6a-30ee-488e-90ca-11b3aa180148.gif…]
 
 <h1 align="center">Hi 👋, I'm rugbee</h1(https://github.com/user-attachments/assets/3d07e02d-5416-4573-ae9d-75d2baf93efd)
 >
